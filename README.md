@@ -1,3 +1,3 @@
 io_brightness
 
-Authors: Aishwwarya Ganesh (University of Texas at Austin)
+Authors: Aishwarya Ganesh (University of Texas at Austin)
