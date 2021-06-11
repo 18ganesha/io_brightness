@@ -26,6 +26,7 @@ dependencies:
   - isort
   - tox
   - pip
+  - lmfit
   - pip:
     - sphinx-material
     - celerite2
