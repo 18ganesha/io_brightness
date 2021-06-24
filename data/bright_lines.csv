@@ -1,34 +1,34 @@
-﻿Wavelength,Species,Width,Oscillator Strength,Guess A,Amplitude Divided,Amplitude,Blended? ,Lifetime,Notes
-1152.151,O I,0.25,2.64E+09,0.02,0.09,8.66E-15,No,5.28E+08,"Optically thick, strongly self absorbed"
-1188.774,Cl I,0.26,1.40E+09,0.01,0.05,4.59E-15,Red-Side,2.33E+08,
-1190.206,S III,0.4,1.22E+08,0.02,0.00,4.00E-16,Blue Side,4.05E+07,
-1194.061,S III,0.4,2.69E+08,0.05,0.01,8.82E-16,Yes / w Self,5.38E+07,
-1200.97,S III,0.4,4.63E+08,0.04,0.02,1.52E-15,Yes / w Cl I,6.62E+07,
-1204.29,S II,0.31,2.36E+08,0.05,0.01,7.74E-16,Yes / w Self,5.91E+07,
-1204.335,S II,0.31,3.47E+08,0.05,0.01,1.14E-15,Yes / w Self,5.79E+07,
-1250.578,S II,0.31,3.47E+08,0.03,0.01,1.14E-15,Yes / w S I,5.13E+07,"S II dominated, ground tranistion"
-1250.814,S I,0.23,7.98E+06,0.03,0.00,2.62E-17,Yes / w S II,2.66E+06,
-1253.805,S II,0.31,2.05E+08,0.06,0.01,6.72E-16,Yes / w S II,5.12E+07,"S II dominated, ground tranistion"
-1259.518,S II,0.31,3.06E+08,0.12,0.01,1.00E-15,No,5.10E+07,"Brightest S II, ground tranistion"
-1270.782,S I,0.23,1.78E+08,0.01,0.01,5.84E-16,No,2.54E+07,
-1295.652,S I,0.23,1.73E+09,0.02,0.06,5.67E-15,Yes / w Self,3.46E+08,
-1302.168,O I,0.25,1.02E+09,0.14,0.03,3.35E-15,Yes / w S I,3.41E+08,Geocoronal contimamination (Time dep)
-1302.337,S I,0.25,6.00E+08,0.10,0.02,1.97E-15,Yes / w O I,1.20E+08,
-1304.858,O I,0.25,6.09E+08,0.10,0.02,2.00E-15,Yes / w S I,2.03E+08,Geocoronal contimamination (Time dep)
-1305.883,S I,0.15,5.88E+08,0.06,0.02,1.93E-15,Yes / w O I,1.96E+08,
-1306.029,O I,0.15,2.03E+08,0.06,0.01,6.66E-16,Yes / w S I,6.76E+07,Geocoronal contimamination (Time dep)
-1316.542,S I,0.23,5.52E+08,0.02,0.02,1.81E-15,Yes / w Self,7.89E+07,
-1316.618,S I,0.23,1.05E+08,0.03,0.00,3.44E-16,Yes / w Self,2.10E+07,
-1323.515,S I,0.23,3.02E+08,0.01,0.01,9.91E-16,Yes / w Self,6.04E+07,A/B detector edge effect near 1321
-1323.522,S I,0.23,1.02E+08,0.02,0.00,3.35E-16,Yes / w Self,3.40E+07,
-1347.24,Cl I,0.26,1.68E+09,0.01,0.06,5.51E-15,No,4.19E+08,"Optically thick, self absorbed"
-1379.528,Cl I,0.26,4.40E+07,0.01,0.00,1.44E-16,No,1.10E+07,
-1381.552,S I,0.23,1.63E+06,0.02,0.00,5.35E-18,No,5.42E+05,
-1385.51,S I,0.23,1.25E+06,0.01,0.00,4.10E-18,No,1.25E+06,
-1388.435,S I,0.23,2.77E+06,0.04,0.00,9.09E-18,No,5.54E+05,
-1389.693,Cl I,0.2,1.40E+06,0.02,0.00,4.59E-18,Yes w/ S l ,2.30E+05,
-1392.588,S I,0.23,1.55E+06,0.02,0.00,5.08E-18,No,5.16E+05,Solar Si IV at 1393.5 useful for albedo
-1396.112,S I,0.23,2.88E+06,0.04,0.00,9.45E-18,No,5.75E+05,
-1401.514,S I,0.23,4.88E+03,0.02,0.00,1.60E-20,No,7.48e+07 ,Solar Si IV at 1402.6 useful for albedo
-1409.337,S I,0.23,1.30E+08,0.01,0.00,4.26E-16,No,4.35E+07,
-1425.03,S I,0.23,2.65E+09,0.09,0.09,8.69E-15,Yes w/ Self,3.79E+08,S IV contributes negligibly 
+﻿Wavelength,Species,Width,Oscillator Strength (A),Oscillator Strength (gA),Guess A,Amplitude Divided,Amplitude,Blended? ,Lifetime,Notes
+1152.151,O I,0.25,5.28E+08,2.64E+09,0.02,0.09,8.66E-15,No,5.28E+08,"Optically thick, strongly self absorbed"
+1188.774,Cl I,0.26,2.33E+08,1.40E+09,0.01,0.05,4.59E-15,Red-Side,2.33E+08,
+1190.206,S III,0.4,4.05E+07,1.22E+08,0.02,0.00,4.00E-16,Blue Side,4.05E+07,
+1194.061,S III,0.4,5.38E+07,2.69E+08,0.05,0.01,8.82E-16,Yes / w Self,5.38E+07,
+1200.97,S III,0.4,6.62E+07,4.63E+08,0.04,0.02,1.52E-15,Yes / w Cl I,6.62E+07,
+1204.29,S II,0.31,5.91E+07,2.36E+08,0.05,0.01,7.74E-16,Yes / w Self,5.91E+07,
+1204.335,S II,0.31,5.79E+07,3.47E+08,0.05,0.01,1.14E-15,Yes / w Self,5.79E+07,
+1250.578,S II,0.31,5.13E+07,3.47E+08,0.03,0.01,1.14E-15,Yes / w S I,5.13E+07,"S II dominated, ground tranistion"
+1250.814,S I,0.23,2.66E+06,7.98E+06,0.03,0.00,2.62E-17,Yes / w S II,2.66E+06,
+1253.805,S II,0.31,5.12E+07,2.05E+08,0.06,0.01,6.72E-16,Yes / w S II,5.12E+07,"S II dominated, ground tranistion"
+1259.518,S II,0.31,5.10E+07,3.06E+08,0.12,0.01,1.00E-15,No,5.10E+07,"Brightest S II, ground tranistion"
+1270.782,S I,0.23,2.54E+07,1.78E+08,0.01,0.01,5.84E-16,No,2.54E+07,
+1295.652,S I,0.23,3.46E+08,1.73E+09,0.02,0.06,5.67E-15,Yes / w Self,3.46E+08,
+1302.168,O I,0.25,3.41E+08,1.02E+09,0.14,0.03,3.35E-15,Yes / w S I,3.41E+08,Geocoronal contimamination (Time dep)
+1302.337,S I,0.25,1.20E+08,6.00E+08,0.10,0.02,1.97E-15,Yes / w O I,1.20E+08,
+1304.858,O I,0.25,2.03E+08,6.09E+08,0.10,0.02,2.00E-15,Yes / w S I,2.03E+08,Geocoronal contimamination (Time dep)
+1305.883,S I,0.15,1.96E+08,5.88E+08,0.06,0.02,1.93E-15,Yes / w O I,1.96E+08,
+1306.029,O I,0.15,6.76E+07,2.03E+08,0.06,0.01,6.66E-16,Yes / w S I,6.76E+07,Geocoronal contimamination (Time dep)
+1316.542,S I,0.23,7.89E+07,5.52E+08,0.02,0.02,1.81E-15,Yes / w Self,7.89E+07,
+1316.618,S I,0.23,2.10E+07,1.05E+08,0.03,0.00,3.44E-16,Yes / w Self,2.10E+07,
+1323.515,S I,0.23,6.04E+07,3.02E+08,0.01,0.01,9.91E-16,Yes / w Self,6.04E+07,A/B detector edge effect near 1321
+1323.522,S I,0.23,3.40E+07,1.02E+08,0.02,0.00,3.35E-16,Yes / w Self,3.40E+07,
+1347.24,Cl I,0.26,4.19E+08,1.68E+09,0.01,0.06,5.51E-15,No,4.19E+08,"Optically thick, self absorbed"
+1379.528,Cl I,0.26,1.10E+07,4.40E+07,0.01,0.00,1.44E-16,No,1.10E+07,
+1381.552,S I,0.23,5.42E+05,1.63E+06,0.02,0.00,5.35E-18,No,5.42E+05,
+1385.51,S I,0.23,1.25E+06,1.25E+06,0.01,0.00,4.10E-18,No,1.25E+06,
+1388.435,S I,0.23,5.54E+05,2.77E+06,0.04,0.00,9.09E-18,No,5.54E+05,
+1389.693,Cl I,0.2,2.30E+05,1.40E+06,0.02,0.00,4.59E-18,Yes w/ S l ,2.30E+05,
+1392.588,S I,0.23,5.16E+05,1.55E+06,0.02,0.00,5.08E-18,No,5.16E+05,Solar Si IV at 1393.5 useful for albedo
+1396.112,S I,0.23,5.75E+05,2.88E+06,0.04,0.00,9.45E-18,No,5.75E+05,
+1401.514,S I,0.23,7.48E+07,4.88E+03,0.02,0.00,1.60E-20,No,7.48e+07 ,Solar Si IV at 1402.6 useful for albedo
+1409.337,S I,0.23,4.35E+07,1.30E+08,0.01,0.00,4.26E-16,No,4.35E+07,
+1425.03,S I,0.23,3.79E+08,2.65E+09,0.09,0.09,8.69E-15,Yes w/ Self,3.79E+08,S IV contributes negligibly 
