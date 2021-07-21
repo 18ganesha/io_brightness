@@ -21,13 +21,13 @@
 1211.38,,S I,,,Yes / w Self,?,"Low flux, many Gaussians"
 1212.795,,S I,,,Yes / w Lyα,?,Ascending Gaussians
 1218.595,,S I,,,Yes / w Lyα,?,"Descending Gaussian, next to many others"
-1224.424,0.00E+00,S I,0.14,8,Yes / w Self,?,"Large peak, small amplitude"
+1224.424,0.00E+00,S I,,,Yes / w Self,?,"Large peak, small amplitude"
 1224.479,,S I,,,Yes / w Self,?,"Large peak, small amplitude"
 1224.544,,S I,,,Yes / w Self,?,"Same peak, descending portion"
 1226.706,1.46E+07,S II,,,Yes / w S I,7.30E+06,Peak by other Gaussians
 1227.089,,S I,,,Yes / w S II,?,Ascending portion of small Gaussian
 1233.44,6.96E+06,S II,,,Yes / w S I,1.74E+06,Small peak
-1233.922,0.00E+00,S I,0.14,19,Yes / w S II,?,Ascending peak
+1233.922,0.00E+00,S I,,19,Yes / w S II,?,Ascending peak
 1234.157,3.82E+07,S II,0.37,15,Yes / w S I,9.54E+06,Dip in peak
 1241.905,3.66E+07,S I,,,No,1.22E+07,"Ascending peak, many Gaussians"
 1247.16,9.52E+07,S I,0.2,13,Yes / w Self,1.36E+07,Top of plateau
